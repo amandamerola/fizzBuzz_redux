@@ -6,6 +6,6 @@
 
 ### Bonus
 
-* Recreate FizzBuzz using **NO LOOPS**  
-
+Recreate FizzBuzz using **NO LOOPS**  
+  
 > HINT: Google "recursion"  
